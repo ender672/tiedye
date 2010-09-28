@@ -1,0 +1,19 @@
+todo:
+
+- transparency support
+
+maybe later:
+
+- consider moving reader classes out of ruby-vips and into tiedye
+
+- render text (unicode peace symbol)
+- random gradient (tiedye colors)
+- render gauss clouds (tiedye-like pattern)
+- add drop shadows
+- masks
+- generate own logo (peace symbol, tiedye colors & pattern, drop shadow)
+
+pie in the sky:
+
+- smart cropping, content-aware
+- grow using that cool algo
